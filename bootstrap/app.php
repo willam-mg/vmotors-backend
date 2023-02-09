@@ -52,4 +52,9 @@ $app->singleton(
 |
 */
 
+/**
+ * configure apidoc
+ */
+// $app->configure('apidoc');
+
 return $app;
